@@ -20,3 +20,6 @@ Point for Incorrect Guess is = 0
 Point for Tie is = 0
 
 
+# Please give me your suggestion for to make better code and for Learn more.
+
+Thanks!
